@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>John Lennon Tribute</title>
+    <style>
+        body {
+            font-family: Times New Roman, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 36px;
+        }
+
+        h2 {
+            font-size: 24px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        p {
+            font-size: 18px;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Remembering John Lennon</h1>
+        <p>1940 - 1980</p>
+    </header>
+    <div class="container">
+        <img src="john-lennon.jpg" alt="John Lennon">
+        <h2>Biography</h2>
+        <p>John Winston Ono Lennon was an English musician, singer, and songwriter who gained worldwide fame as a founding member of the Beatles, one of the greatest and most influential bands in the history of music.</p>
+        <p>John Lennon was born on October 9, 1940, in Liverpool, England. He was known for his distinctive voice, songwriting talent, and his commitment to peace and activism.</p>
+        <h2>Legacy</h2>
+        <p>John Lennon's music continues to inspire and touch the hearts of people around the world. His songs like "Imagine" and "Give Peace a Chance" promote messages of peace, love, and unity.</p>
+        <p>Even though he left us too soon, his impact on music and culture remains strong, and he is remembered as an icon and a symbol of hope for a better world.</p>
+    </div>
+</body>
+</html>
